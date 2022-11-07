@@ -1,1 +1,1 @@
-const verduras = "calabaza y papa"
+const verduras = "calabaza, papa, batata"
